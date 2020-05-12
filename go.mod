@@ -1,4 +1,4 @@
-module github.com/arl/go-detour
+module github.com/rileydutton/go-detour
 
 go 1.14
 

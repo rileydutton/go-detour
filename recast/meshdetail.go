@@ -701,7 +701,7 @@ func delaunayHull(ctx *BuildContext, npts int32, pts []float32,
 		t := (*tris)[i*4:]
 		if t[0] == -1 || t[1] == -1 || t[2] == -1 {
 			ctx.Warningf("delaunayHull: Removing dangling face %d [%d,%d,%d].", i, t[0], t[1], t[2])
-			panic("untested")
+			//panic("untested")
 			// TODO: simplify
 			t[0] = (*tris)[len(*tris)-4]
 			t[1] = (*tris)[len(*tris)-3]

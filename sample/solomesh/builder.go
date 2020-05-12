@@ -3,9 +3,9 @@ package solomesh
 import (
 	"io"
 
-	"github.com/arl/go-detour/detour"
-	"github.com/arl/go-detour/recast"
-	"github.com/arl/go-detour/sample"
+	"github.com/rileydutton/go-detour/detour"
+	"github.com/rileydutton/go-detour/recast"
+	"github.com/rileydutton/go-detour/sample"
 	"github.com/arl/math32"
 )
 

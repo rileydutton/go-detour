@@ -6,7 +6,7 @@ import (
 	"os"
 
 	assert "github.com/arl/assertgo"
-	"github.com/arl/go-detour/detour"
+	"github.com/rileydutton/go-detour/detour"
 	"github.com/arl/gogeo/f32/d3"
 )
 

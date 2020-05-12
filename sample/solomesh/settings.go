@@ -1,8 +1,8 @@
 package solomesh
 
 import (
-	"github.com/arl/go-detour/recast"
-	"github.com/arl/go-detour/sample"
+	"github.com/rileydutton/go-detour/recast"
+	"github.com/rileydutton/go-detour/sample"
 )
 
 // DefaultSettings returns a recast.BuildSettings with default values for solo

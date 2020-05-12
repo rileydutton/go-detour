@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/arl/go-detour/detour"
+	"github.com/rileydutton/go-detour/detour"
 	"github.com/spf13/cobra"
 )
 
